@@ -1,0 +1,39 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+
+blockquote {
+font: 16px/24px normal helvetica, sans-serif;
+font-style: italic;
+margin-top: 15px;
+margin-bottom: 15px;
+color: red;
+margin-left: 50px;
+padding-left: 15px;
+border-left: 4px solid #ccc; }
+
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+#paragraph{
+  font-family: georgia, serif;
+  font-size: 13px;
+}
+
+#caption{
+  font-family: georgia, serif;
+  font-size: 11px;
+  color: grey;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
