@@ -1,0 +1,29 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.display-4{
+  color: #AF3434;
+  font-family: 'Roboto', sans-serif;
+}
+
+.lead{
+  font-family: 'Roboto', sans-serif;
+}
+
+h3{
+    color: #AF3434;
+}
+
+#padding{
+  padding: 35px;
+}
+
+h2{
+  text-align: center;
+  font-style: 'Roboto', sans-serif;
+  font-size: 4em;
+}
