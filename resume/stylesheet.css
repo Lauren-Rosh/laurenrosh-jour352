@@ -32,16 +32,9 @@
   background-color: black;
   color: white;
 }
-
-h3{
-    color: #AF3434;
-}
-
-#padding{
-  padding: 35px;
-}
-.skills{
-  text-align: center;
+h1{
+  font-style: 'Roboto', sans-serif;
+  color: #AF3434
 }
 h2{
   text-align: center;
@@ -49,6 +42,53 @@ h2{
   font-size: 4em;
 }
 
+h3{
+    color: #AF3434;
+    font-style: 'Roboto', sans-serif;
+}
+
+h4{
+  font-style: 'Roboto', sans-serif;
+}
+
+h5{
+  font-style: 'Roboto', sans-serif;
+}
+
+ul{
+
+}
+
+#padding{
+  padding: 35px;
+}
+/*skills
+.skills{
+  text-align: center;
+}
+*/
+
+.col-md-4{
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.fa-stack fa-lg{
+  color: #AF3434
+}
+
+
+li{
+  font-family: 'Roboto', sans-serif;
+}
+
 .fab fa-linkedin{
   background-color: black;
+}
+
+.footer{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #AF3434;
+  text-align: center;
 }
