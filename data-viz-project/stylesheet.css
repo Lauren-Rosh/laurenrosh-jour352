@@ -1,14 +1,22 @@
 h3{
-  font: 24px normal "open sans", sans-serif;
+  font: 30px "Roboto", sans-serif;
   color: #B52F16;
   font-weight: bold;
 }
 
 body{
-  font-family: "open sans", arial, sans-serif;
-  font-size: 1em;
+  font-family: "Roboto", arial, sans-serif;
+  font-size: 1.1em;
   color:black;
   font-weight: 400;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
+
+.navbar navbar-expand-lg navbar-light bg-light{
+  background-color: #B52F16;
 }
 
 .center {
@@ -18,6 +26,31 @@ body{
   width: 100%;
 }
 
+.right {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+
+#padding{
+  padding: 35px;
+}
+
+
+#datawrapper-chart-bqiPl{
+  width: 40%;
+}
+
+
+.footer{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+ /*background-color: #B52F16;*/
+  text-align: center;
+}
+
 blockquote {
 font: 24px normal helvetica, sans-serif;
 margin-top: 15px;
@@ -25,4 +58,54 @@ margin-bottom: 15px;
 color: #B52F16;
 margin-left: 50px;
 padding-left: 15px;
-border-left: 4px solid #ccc; }
+border-left: 4px solid #ccc;}
+
+
+
+#caption{
+  font-family: helvetica, arial, sans-serif;
+  font-size: 14px;
+  color: #B52F16;
+  font-weight: bold;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 5px;
+  padding-left: 2px;
+}
+
+#byline{
+  font-family: "open sans", arial, sans-serif;
+  font-size: 14px;
+}
+
+
+#football{
+  width: 20;
+  height: 20;
+}
+
+#myBtn {
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: #B52F16; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 15px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 18px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
+#readmore{
+  color: #3B4157;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 14px;
+}
