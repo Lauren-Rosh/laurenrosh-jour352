@@ -10,6 +10,19 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.display-6{
+  color: #AF3434;
+  font-family: 'Roboto', sans-serif;
+  text-align: left;
+  font: 30px "Roboto", sans-serif;
+}
+
+.display-5{
+  color: #AF3434;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
 .lead{
   font-family: 'Roboto', sans-serif;
 }
