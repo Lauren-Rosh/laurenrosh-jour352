@@ -1,0 +1,94 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.display-4{
+  color: #AF3434;
+  font-family: 'Roboto', sans-serif;
+}
+
+.lead{
+  font-family: 'Roboto', sans-serif;
+}
+
+.button{
+  border-radius: 4px;
+  background-color: #AF3434;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
+h1{
+  font-style: 'Roboto', sans-serif;
+  color: #AF3434
+}
+h2{
+  text-align: center;
+  font-style: 'Roboto', sans-serif;
+  font-size: 4em;
+}
+
+h3{
+    color: #AF3434;
+    font-style: 'Roboto', sans-serif;
+}
+
+h4{
+  font-style: 'Roboto', sans-serif;
+}
+
+h5{
+  font-style: 'Roboto', sans-serif;
+}
+
+ul{
+
+}
+
+#padding{
+  padding: 35px;
+}
+/*skills
+.skills{
+  text-align: center;
+}
+*/
+
+.col-md-4{
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.fa-stack fa-lg{
+  color: #AF3434
+}
+
+
+li{
+  font-family: 'Roboto', sans-serif;
+}
+
+.fab fa-linkedin{
+  background-color: black;
+}
+
+.footer{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #AF3434;
+  text-align: center;
+}
