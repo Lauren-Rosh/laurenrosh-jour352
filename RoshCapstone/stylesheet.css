@@ -23,6 +23,12 @@
   text-align: center;
 }
 
+.display-8{
+  color: #AF3434;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
 .lead{
   font-family: 'Roboto', sans-serif;
 }
@@ -44,6 +50,11 @@
 .button:hover {
   background-color: black;
   color: white;
+}
+
+#word{
+  color:#AF3434;
+  font-size: 20px;
 }
 h1{
   font-style: 'Roboto', sans-serif;
@@ -90,6 +101,9 @@ ul{
   color: #AF3434
 }
 
+a {
+  color: #AF3434;
+}
 
 li{
   font-family: 'Roboto', sans-serif;
